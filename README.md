@@ -28,8 +28,9 @@ archive byte for byte, run `python verify_submission.py --archive original.zip`.
 ## Run
 
 Use the [SimulacraBench starter kit](https://github.com/SituatedEvals/public/tree/aa03186f8f083c7785a1a566c802c2077925e265)
-to check the ZIP and run the Phase 2 sandbox for each survey. The full run
-uses CUDA and the [submission dependencies](submission/requirements.txt).
+and run `python tools/check_submission_zip.py /path/to/phoenix.zip`
+from its root. Run the sandbox scorer with `--phase 2` for each survey.
+The full run uses CUDA and the [submission dependencies](submission/requirements.txt).
 
 ## License
 

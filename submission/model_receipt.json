@@ -1,0 +1,20 @@
+{
+  "model": {
+    "repo": "jingang/TabICL",
+    "revision": "4dcd344ece2c00be9e831fdd35bed57b5ad83e19",
+    "file": "tabicl-classifier-v2-20260212.ckpt",
+    "sha256": "bdc7dbd5e4ff21f8f0456fcf90c6b7cdf72dbea960f2d05b19bec19f9b3d4ed0"
+  },
+  "packages": {
+    "tabicl": {
+      "version": "2.2.0",
+      "url": "https://files.pythonhosted.org/packages/77/22/bbac2df399b8ed5a699bde38496ebb129a045c5d160fe52786727de932f3/tabicl-2.2.0-py3-none-any.whl",
+      "sha256": "c80b8ec2719be26bc0bf1dd758a2361f58019d8f7877038b785529a425789ce4"
+    },
+    "einops": {
+      "version": "0.8.2",
+      "url": "https://files.pythonhosted.org/packages/2a/09/f8d8f8f31e4483c10a906437b4ce31bdf3d6d417b73fe33f1a8b59e34228/einops-0.8.2-py3-none-any.whl",
+      "sha256": "54058201ac7087911181bfec4af6091bb59380360f069276601256a76af08193"
+    }
+  }
+}

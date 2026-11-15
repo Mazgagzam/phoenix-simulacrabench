@@ -1,0 +1,19 @@
+{
+  "version": "TabPFN-Phoenix-v3.5-fast-world-bank-honest",
+  "seed": 1729,
+  "folds": 3,
+  "gates": true,
+  "tabicl": true,
+  "budget_fraction": 0.8,
+  "tabicl_estimators": 1,
+  "tabicl_max_folds": 3,
+  "pfn_world_bank": true,
+  "pfn_fixed_weight": 1.0,
+  "pfn_context_rows": null,
+  "pfn_estimators": 2,
+  "pfn_prior_strength": 4.0,
+  "neural": false,
+  "pfn_honest_blend": true,
+  "pfn_blend_l2": 0.001,
+  "pfn_holdout_seed": 1729
+}

@@ -32,6 +32,8 @@ and run `python tools/check_submission_zip.py /path/to/phoenix.zip`
 from its root. Run the sandbox scorer with `--phase 2` for each survey.
 The full run uses CUDA and the [submission dependencies](submission/requirements.txt).
 
+See [external data](external_data.md) for the sources used during development.
+
 ## License
 
 Phoenix code is released under the [MIT License](LICENSE). Vendored code
